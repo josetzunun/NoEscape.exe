@@ -1,0 +1,4 @@
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoAdminLogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoRestartShell
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DisableCAD
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
