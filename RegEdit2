@@ -1,0 +1,2 @@
+HKLM\SOFTWARE\Classes\exefile\shell\open\command
+HKLM\SOFTWARE\Classes\exefile\shell\runas\command
